@@ -2,4 +2,4 @@
  
 # Data
 https://github.com/CSSEGISandData/COVID-19
-https://data.worldbank.org/indicator/EN.POP.DNST
+https://www.kaggle.com/tanuprabhu/population-by-country-2020
